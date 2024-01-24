@@ -1,0 +1,26 @@
+.li {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  font-weight: 600;
+  font-family: cursive;
+  gap: 10px;
+}
+.li.dark{
+  background-color: rgb(133, 151, 169);
+}
+
+button {
+  width: 100px;
+  height: 40px;
+  background-color: rgb(191, 223, 238);
+  border-radius: 8px;
+  border: solid 2px rgb(26, 205, 245);
+  color: rgb(131, 134, 137);
+  font-weight: 700;
+  font-size: large;
+}
+.done {
+    text-decoration: line-through;
+  }
+

@@ -1,0 +1,40 @@
+.form-style {
+    height: 300px;
+    width: 302px;
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+    font-family: cursive;
+  }
+  .form-style-list {
+    height: 220px;
+    width: 302px;
+    display: flex;
+    flex-direction: column;
+    font-family: cursive;
+    gap: 15px;
+  }
+  .button-style {
+    width: 302px;
+    height: 40px;
+    background-color: rgb(67, 201, 222);
+    border-radius: 8px;
+    border: solid 2px rgb(26, 205, 245);
+    color: white;
+    font-size: large;
+  }
+  .input-style {
+    height: 36px;
+    width: 302px;
+    border-radius: 8px;
+    border: solid 2px rgb(26, 205, 245);
+  }
+  .select-style{
+    width: 302px;
+    height: 40px;
+    border-radius: 8px;
+    border: solid 2px rgb(26, 205, 245);
+    font-weight: 700;
+    font-size: large;
+  }
+  
